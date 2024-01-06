@@ -26,3 +26,8 @@ OK.
 get myVal
 "1"
 
+NOte : To get the active ports : use this command : ps -ef | grep redis
+to stop a process : use : Kill -15 <Mapping id - get this after above command execution>
+
+use sudo if it gives some error.
+
